@@ -6,3 +6,4 @@ Il suffit tout d'abord d'installer pdfkit pour ton IDE: colab ou vscode ou bien 
 
 ## Défini une fonction
 Comme dans le fichier main, vous avez une fonction qui fait l'affaire pour convertir un url en pdf en moins d'une seconde. Vous pouvez suvgarder le fichier en local ou sur colab par exemple.
+
